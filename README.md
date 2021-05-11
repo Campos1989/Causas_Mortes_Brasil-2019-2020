@@ -9,4 +9,5 @@ Esses dados contêm o número de óbitos registrados por dia, estado, sexo, idad
 Esses dados foram coletados entre 14/09/2020 e 16/09/2020 e podem ser atualizados, pois pode demorar alguns dias até que o óbito seja registrado pela família, no cartório e posteriormente disponibilizado na plataforma.
 
 Link do dataset
+
 https://www.kaggle.com/amandalk/cause-of-death-in-brazil-20192020
